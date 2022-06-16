@@ -1,0 +1,628 @@
+,suffix,derivtype,stemtype,stemclass,misc
+0,pt,ptw,w_stem,pp_pr,na
+1,y,ptw,reg_fut,pp_fu,na
+2,y,ptw,aor1,pp_ao,na
+3,f,ptw,perf_act,pp_pf,na
+4,*,ptw,perfp_p,pp_pp,na
+5,fq,ptw,aor_pass,pp_ap,na
+6,f,ptw,aor2_pass,pp_ap,na
+7,b,ptw,aor2_pass,pp_ap,na
+8,p,ptw,aor2_pass,pp_ap,na
+9,y,ptw,fut_perf,pp_fp,na
+10,pt,ptw,os_on,adj2,na
+11,sk,skw,w_stem,pp_pr,na
+12,c,skw,reg_fut,pp_fu,na
+13,s,skw,reg_fut,pp_fu,na
+14,ss,skw,reg_fut,pp_fu,epic
+15,c,skw,aor1,pp_ao,na
+16,s,skw,aor1,pp_ao,na
+17,ss,skw,aor1,pp_ao,epic
+18,x,skw,perf_act,pp_pf,na
+19,*,skw,perfp_g,pp_pp,na
+20,xq,skw,aor_pass,pp_ap,na
+21,sq,skw,aor_pass,pp_ap,na
+22,kt,skw,os_on,adj2,na
+23,az,azw,w_stem,pp_pr,na
+24,asd,azw,w_stem,pp_pr,doric aeolic
+25,as,azw,reg_fut,pp_fu,na
+26,ac,azw,reg_fut,pp_fu,na
+27,ac,azw,ew_fut,pp_fu,doric
+28,ass,azw,reg_fut,pp_fu,epic
+29,*,azw,aw_fut,pp_fu,na
+30,as,azw,aor1,pp_ao,na
+31,ac,azw,aor1,pp_ao,na
+32,ass,azw,aor1,pp_ao,na
+33,ak,azw,perf_act,pp_pf,na
+34,a,azw,perfp_d,pp_pp,na
+35,a,azw,perfp_g,pp_pp,na
+36,asq,azw,aor_pass,pp_ap,na
+37,axq,azw,aor_pass,pp_ap,na
+38,ast,azw,os_on,adj2,na
+39,akt,azw,os_on,adj2,na
+40,asm,azw,wn_on,adj3,na
+41,adm,azw,wn_on,adj3,doric ionic
+42,asm,azw,wn_on,adj3,na
+43,ss,ss,w_stem,pp_pr,na
+44,sd,ss,w_stem,pp_pr,doric
+45,tt,ss,w_stem,pp_pr,attic
+46,c,ss,reg_fut,pp_fu,na
+47,c,ss,aor1,pp_ao,na
+48,x,ss,perf_act,pp_pf,na
+49,*,ss,perfp_g,pp_pp,na
+50,xq,ss,aor_pass,pp_ap,na
+51,g,ss,aor_pass,pp_ap,na
+52,c,ss,fut_perf,pp_fp,na
+53,kt,ss,os_on,adj2,na
+54,an,anw,w_stem,pp_pr,na
+55,*,anw,w_stem,pp_pr,na
+56,a_s,anw,reg_fut,pp_fu,attic r_e_i_alpha
+57,hs,anw,reg_fut,pp_fu,na
+58,*,anw,aor2,pp_ao,na
+59,a_s,anw,aor1,pp_ao,attic r_e_i_alpha
+60,hs,anw,aor1,pp_ao,na
+61,a_k,anw,perf_act,pp_pf,attic r_e_i_alpha
+62,hk,anw,perf_act,pp_pf,na
+63,a_,anw,perfp_vow,pp_pp,attic r_e_i_alpha
+64,h,anw,perfp_vow,pp_pp,na
+65,a_q,anw,aor_pass,pp_ap,attic r_e_i_alpha
+66,hq,anw,aor_pass,pp_ap,na
+67,a_t,anw,os_on,adj2,attic r_e_i_alpha
+68,ht,anw,os_on,adj2,na
+69,a_t,anw,verb_adj1,adj2,attic r_e_i_alpha
+70,ht,anw,verb_adj1,adj2,na
+71,u_r,urw,w_stem,pp_pr,na
+72,u^r,urw,ew_fut,pp_fu,na
+73,u_r,urw,aor1,pp_ao,na
+74,urs,urw,aor1,pp_ao,epic
+75,urk,urw,perf_act,pp_pf,na
+76,u,urw,perfp_r,pp_pp,na
+77,urq,urw,aor_pass,pp_ap,na
+78,ur,urw,aor2_pass,pp_ap,na
+79,urs,urw,fut_perf,pp_fp,na
+80,ain,ainw,w_stem,pp_pr,na
+81,an,ainw,ew_fut,pp_fu,na
+82,a_s,ainw,reg_fut,pp_fu,attic r_e_i_alpha
+83,hs,ainw,reg_fut,pp_fu,na
+84,a_n,ainw,aor1,pp_ao,attic r_e_i_alpha
+85,hn,ainw,aor1,pp_ao,na
+86,a_n,ainw,aor1,pp_ao,epic doric aeolic
+87,an,ainw,aor2,pp_ao,na
+88,a_s,ainw,aor1,pp_ao,attic r_e_i_alpha
+89,hs,ainw,aor1,pp_ao,na
+90,a_n,ainw,perf_act,pp_pf,attic r_e_i_alpha
+91,hn,ainw,perf_act,pp_pf,na
+92,agk,ainw,perf_act,pp_pf,na
+93,a,ainw,perfp_n,pp_pp,na
+94,a_,ainw,perfp_n,pp_pp,na
+95,a_,ainw,perfp_vow,pp_pp,attic r_e_i_alpha
+96,h,ainw,perfp_vow,pp_pp,na
+97,a,ainw,perfp_p,pp_pp,na
+98,anq,ainw,aor_pass,pp_ap,na
+99,ant,ainw,os_on,adj2,na
+100,a^n,ainw,hs_es,adj3,na
+101,*,a_stem,aw_pr,pp_pr,na
+102,*,a_stem,ami_pr,pp_pr,na
+103,ai,a_stem,w_stem,pp_pr,na
+104,*,a_stem,ew_pr,pp_pr,ionic
+105,*,a_stem,ajw_pr,pp_pr,na
+106,*,a_stem,ami_short,pp_pr,na
+107,a_,a_stem,ath_primary,pp_pr,attic r_e_i_alpha
+108,h,a_stem,ath_primary,pp_pr,na
+109,a_,a_stem,ath_primary,pp_pr,na
+110,ask,a_stem,w_stem,pp_pr,na
+111,a_sk,a_stem,w_stem,pp_pr,attic r_e_i_alpha
+112,hsk,a_stem,w_stem,pp_pr,na
+113,a_|sk,a_stem,w_stem,pp_pr,attic r_e_i_alpha
+114,h|sk,a_stem,w_stem,pp_pr,na
+115,a_|sk,a_stem,w_stem,pp_pr,doric aeolic
+116,a_sk,a_stem,w_stem,pp_pr,doric aeolic
+117,au,a_stem,w_stem,pp_pr,na
+118,a,a_stem,w_stem,pp_pr,epic
+119,ass,a_stem,reg_fut,pp_fu,epic
+120,a_s,a_stem,reg_fut,pp_fu,attic r_e_i_alpha
+121,hs,a_stem,reg_fut,pp_fu,na
+122,as,a_stem,reg_fut,pp_fu,na
+123,a_s,a_stem,reg_fut,pp_fu,epic doric aeolic
+124,*,a_stem,aw_fut,pp_fu,na
+125,as,a_stem,aor1,pp_ao,na
+126,ass,a_stem,aor1,pp_ao,epic
+127,a_s,a_stem,aor1,pp_ao,attic r_e_i_alpha
+128,hs,a_stem,aor1,pp_ao,na
+129,a_s,a_stem,aor1,pp_ao,epic doric aeolic
+130,*,a_stem,ath_h_aor,pp_ao,na
+131,*,a_stem,ami_aor,pp_ao,na
+132,ak,a_stem,perf_act,pp_pf,na
+133,a_k,a_stem,perf_act,pp_pf,attic r_e_i_alpha
+134,hk,a_stem,perf_act,pp_pf,na
+135,a_k,a_stem,perf_act,pp_pf,epic doric aeolic
+136,a_,a_stem,perf2_act,pp_pf,attic r_e_i_alpha
+137,h,a_stem,perf2_act,pp_pf,na
+138,a,a_stem,perfp_vow,pp_pp,na
+139,a_,a_stem,perfp_vow,pp_pp,attic r_e_i_alpha
+140,h,a_stem,perfp_vow,pp_pp,na
+141,a_,a_stem,perfp_vow,pp_pp,epic doric aeolic
+142,a,a_stem,perfp_s,pp_pp,na
+143,a_,a_stem,perfp_s,pp_pp,attic r_e_i_alpha
+144,h,a_stem,perfp_s,pp_pp,na
+145,asq,a_stem,aor_pass,pp_ap,na
+146,aq,a_stem,aor_pass,pp_ap,na
+147,a_q,a_stem,aor_pass,pp_ap,attic r_e_i_alpha
+148,hq,a_stem,aor_pass,pp_ap,na
+149,a_q,a_stem,aor_pass,pp_ap,epic doric aeolic
+150,a_sq,a_stem,aor_pass,pp_ap,attic r_e_i_alpha
+151,hsq,a_stem,aor_pass,pp_ap,na
+152,a_sq,a_stem,aor_pass,pp_ap,doric aeolic
+153,a_s,a_stem,fut_perf,pp_fp,attic r_e_i_alpha
+154,hs,a_stem,fut_perf,pp_fp,na
+155,a_s,a_stem,fut_perf,pp_fp,epic doric aeolic
+156,a_c,a_stem,fut_perf,pp_fp,attic r_e_i_alpha
+157,hc,a_stem,fut_perf,pp_fp,na
+158,a_t,a_stem,os_on,adj2,attic r_e_i_alpha
+159,ht,a_stem,os_on,adj2,na
+160,a_t,a_stem,os_on,adj2,doric aeolic
+161,a_st,a_stem,os_on,adj2,attic r_e_i_alpha
+162,hst,a_stem,os_on,adj2,na
+163,ast,a_stem,os_on,adj2,na
+164,a_st,a_stem,os_on,adj2,doric aeolic
+165,a^t,a_stem,os_on,adj2,na
+166,a^t,a_stem,os_h_on,adj1,na
+167,a_m,a_stem,wn_on,adj3,attic r_e_i_alpha
+168,hm,a_stem,wn_on,adj3,na
+169,a_m,a_stem,wn_on,adj3,doric aeolic
+170,a_sim,a_stem,os_on,adj2,attic r_e_i_alpha
+171,hsim,a_stem,os_on,adj2,na
+172,*,a_stem,as_asa_an,adj3,na
+173,*,reg_conj,w_stem,pp_pr,na
+174,s,reg_conj,reg_fut,pp_fu,na
+175,ss,reg_conj,reg_fut,pp_fu,epic
+176,s,reg_conj,aor1,pp_ao,na
+177,ss,reg_conj,aor1,pp_ao,epic
+178,k,reg_conj,perf_act,pp_pf,na
+179,*,reg_conj,perfp_vow,pp_pp,na
+180,*,reg_conj,perfp_s,pp_pp,na
+181,q,reg_conj,aor_pass,pp_ap,na
+182,sq,reg_conj,aor_pass,pp_ap,na
+183,s,reg_conj,fut_perf,pp_fp,na
+184,t,reg_conj,os_on,adj2,na
+185,st,reg_conj,os_on,adj2,na
+186,*,reg_conj,hs_es,adj3,comp_only
+187,ein,einw,w_stem,pp_pr,na
+188,en,einw,ew_fut,pp_fu,na
+189,ein,einw,aor1,pp_ao,na
+190,en,einw,hs_es,adj3,comp_only
+191,*,aw_denom,aw_pr,pp_pr,na
+192,*,aw_denom,ew_pr,pp_pr,epic ionic
+193,a_,aw_denom,ath_primary,pp_pr,attic r_e_i_alpha
+194,h,aw_denom,ath_primary,pp_pr,na
+195,a_s,aw_denom,reg_fut,pp_fu,attic r_e_i_alpha
+196,hs,aw_denom,reg_fut,pp_fu,attic ionic
+197,a_s,aw_denom,reg_fut,pp_fu,doric aeolic
+198,a_s,aw_denom,aor1,pp_ao,attic r_e_i_alpha
+199,hs,aw_denom,aor1,pp_ao,attic ionic
+200,a_s,aw_denom,aor1,pp_ao,doric aeolic
+201,a_k,aw_denom,perf_act,pp_pf,attic r_e_i_alpha
+202,hk,aw_denom,perf_act,pp_pf,attic ionic
+203,a_k,aw_denom,perf_act,pp_pf,doric aeolic
+204,a_,aw_denom,perfp_vow,pp_pp,attic r_e_i_alpha
+205,h,aw_denom,perfp_vow,pp_pp,attic ionic
+206,a_,aw_denom,perfp_vow,pp_pp,doric aeolic
+207,a_q,aw_denom,aor_pass,pp_ap,attic r_e_i_alpha
+208,hq,aw_denom,aor_pass,pp_ap,attic ionic
+209,a_q,aw_denom,aor_pass,pp_ap,doric aeolic
+210,a_s,aw_denom,fut_perf,pp_fp,attic r_e_i_alpha
+211,hs,aw_denom,fut_perf,pp_fp,attic ionic
+212,a_s,aw_denom,fut_perf,pp_fp,doric aeolic
+213,a_t,aw_denom,os_on,adj2,attic r_e_i_alpha
+214,ht,aw_denom,os_on,adj2,attic ionic
+215,a_t,aw_denom,os_on,adj2,doric aeolic
+216,a_s,aw_denom,is_ews,noun3,fem attic r_e_i_alpha
+217,hs,aw_denom,is_ews,noun3,fem attic ionic
+218,a_s,aw_denom,is_ews,noun3,fem doric aeolic
+219,a_thri,aw_denom,os_ou,noun2,neut attic r_e_i_alpha
+220,hthri,aw_denom,os_ou,noun2,neut
+221,a_thri,aw_denom,os_h_on,adj1,attic r_e_i_alpha
+222,hthri,aw_denom,os_h_on,adj1,na
+223,a_teir,aw_denom,a_hs,noun1,fem attic r_e_i_alpha
+224,hteir,aw_denom,a_hs,noun1,fem
+225,a_tik,aw_denom,os_h_on,adj1,attic suff_acc r_e_i_alpha
+226,htik,aw_denom,os_h_on,adj1,suff_acc
+227,a_sin,aw_denom,h_hs,noun1,fem attic r_e_i_alpha nu_movable
+228,a_si,aw_denom,h_hs,noun1,fem attic r_e_i_alpha
+229,a_sin,aw_denom,h_hs,noun1,fem attic r_e_i_alpha nu_movable
+230,hsin,aw_denom,h_hs,noun1,fem nu_movable
+231,hsi,aw_denom,h_hs,noun1,fem
+232,ai,aiw,w_stem,pp_pr,na
+233,a_,aiw,w_stem,pp_pr,na
+234,*,aiw,aw_pr,pp_pr,na
+235,au,aiw,w_stem,pp_pr,na
+236,aus,aiw,reg_fut,pp_fu,na
+237,aus,aiw,aor1,pp_ao,na
+238,auk,aiw,perf_act,pp_pf,na
+239,au,aiw,perfp_vow,pp_pp,na
+240,auq,aiw,aor_pass,pp_ap,na
+241,ausq,aiw,aor_pass,pp_ap,na
+242,ai,av_stem,w_stem,pp_pr,na
+243,a_,av_stem,w_stem,pp_pr,attic
+244,*,av_stem,aw_pr,pp_pr,na
+245,au,av_stem,w_stem,pp_pr,na
+246,aus,av_stem,reg_fut,pp_fu,na
+247,aus,av_stem,aor1,pp_ao,na
+248,auk,av_stem,perf_act,pp_pf,na
+249,au,av_stem,perfp_vow,pp_pp,na
+250,au,av_stem,perfp_s,pp_pp,na
+251,auq,av_stem,aor_pass,pp_ap,na
+252,ausq,av_stem,aor_pass,pp_ap,na
+253,aus,av_stem,fut_perf,pp_fp,na
+254,aust,av_stem,os_on,adj2,na
+255,a_s,e_suppl,reg_fut,pp_fu,attic r_e_i_alpha
+256,hs,e_suppl,reg_fut,pp_fu,na
+257,a_s,e_suppl,reg_fut,pp_fu,doric aeolic
+258,a_s,e_suppl,aor1,pp_ao,attic r_e_i_alpha
+259,hs,e_suppl,aor1,pp_ao,na
+260,a_s,e_suppl,aor1,pp_ao,doric
+261,a_k,e_suppl,perf_act,pp_pf,attic r_e_i_alpha
+262,hk,e_suppl,perf_act,pp_pf,na
+263,a_k,e_suppl,perf_act,pp_pf,doric
+264,a_,e_suppl,perfp_vow,pp_pp,attic r_e_i_alpha
+265,h,e_suppl,perfp_vow,pp_pp,na
+266,a_,e_suppl,perfp_vow,pp_pp,doric aeolic
+267,a_q,e_suppl,aor_pass,pp_ap,attic r_e_i_alpha
+268,hq,e_suppl,aor_pass,pp_ap,na
+269,a_q,e_suppl,aor_pass,pp_ap,doric aeolic
+270,a_s,e_suppl,fut_perf,pp_fp,attic r_e_i_alpha
+271,hs,e_suppl,fut_perf,pp_fp,na
+272,a_s,e_suppl,fut_perf,pp_fp,doric aeolic
+273,a_t,e_suppl,os_on,adj2,attic r_e_i_alpha
+274,ht,e_suppl,os_on,adj2,na
+275,a_t,e_suppl,os_on,adj2,doric aeolic
+276,ull,ullw,w_stem,pp_pr,na
+277,u^l,ullw,ew_fut,pp_fu,na
+278,u_l,ullw,aor1,pp_ao,na
+279,ulk,ullw,perf_act,pp_pf,na
+280,u,ullw,perfp_l,pp_pp,na
+281,ulq,ullw,aor_pass,pp_ap,na
+282,all,allw,w_stem,pp_pr,na
+283,al,allw,ew_fut,pp_fu,na
+284,a_l,allw,aor1,pp_ao,attic r_e_i_alpha
+285,hl,allw,aor1,pp_ao,na
+286,a_l,allw,aor1,pp_ao,doric
+287,al,allw,aor2,pp_ao,na
+288,alk,allw,perf_act,pp_pf,na
+289,a_lk,allw,perf_act,pp_pf,attic r_e_i_alpha
+290,hlk,allw,perf_act,pp_pf,na
+291,a,allw,perfp_l,pp_pp,na
+292,alq,allw,aor_pass,pp_ap,na
+293,a^l,allw,os_on,adj2,comp_only
+294,u_n,unw,w_stem,pp_pr,na
+295,un,unw,ew_fut,pp_fu,na
+296,u_n,unw,aor1,pp_ao,na
+297,u_k,unw,perf_act,pp_pf,na
+298,ugk,unw,perf_act,pp_pf,na
+299,u,unw,perfp_n,pp_pp,na
+300,*,unw,perfp_un,pp_pp,na
+301,unq,unw,aor_pass,pp_ap,na
+302,unt,unw,os_on,adj2,na
+303,air,airw,w_stem,pp_pr,na
+304,ar,airw,ew_fut,pp_fu,na
+305,a_r,airw,aor1,pp_ao,attic r_e_i_alpha
+306,hr,airw,aor1,pp_ao,na
+307,a_r,airw,aor1,pp_ao,na
+308,ar,airw,aor2,pp_ao,na
+309,a_rk,airw,perf_act,pp_pf,attic r_e_i_alpha
+310,hrk,airw,perf_act,pp_pf,na
+311,a_,airw,perfp_r,pp_pp,attic r_e_i_alpha
+312,h,airw,perfp_r,pp_pp,na
+313,a,airw,perfp_r,pp_pp,na
+314,arq,airw,aor_pass,pp_ap,na
+315,ar,airw,aor2_pass,pp_ap,na
+316,art,airw,os_on,adj2,na
+317,n,nw,w_stem,pp_pr,na
+318,*,nw,ew_fut,pp_fu,na
+319,*,nw,aor2,pp_ao,na
+320,uz,uzw,w_stem,pp_pr,na
+321,usd,uzw,w_stem,pp_pr,doric
+322,us,uzw,reg_fut,pp_fu,na
+323,uc,uzw,reg_fut,pp_fu,na
+324,us,uzw,aor1,pp_ao,na
+325,uc,uzw,aor1,pp_ao,na
+326,uss,uzw,aor1,pp_ao,na
+327,uk,uzw,perf_act,pp_pf,na
+328,u,uzw,perfp_d,pp_pp,na
+329,u,uzw,perfp_g,pp_pp,doric
+330,usq,uzw,aor_pass,pp_ap,na
+331,uxq,uzw,aor_pass,pp_ap,na
+332,ukt,uzw,os_on,adj2,na
+333,ust,uzw,os_on,adj2,na
+334,ust,uzw,os_h_on,adj1,na
+335,i,iaw_denom,aw_pr,pp_pr,na
+336,ia_s,iaw_denom,reg_fut,pp_fu,attic
+337,ia_s,iaw_denom,reg_fut,pp_fu,doric
+338,ihs,iaw_denom,reg_fut,pp_fu,epic ionic
+339,ia_s,iaw_denom,aor1,pp_ao,attic
+340,ia_s,iaw_denom,aor1,pp_ao,doric
+341,ihs,iaw_denom,aor1,pp_ao,epic ionic
+342,ia_k,iaw_denom,perf_act,pp_pf,attic
+343,ia_k,iaw_denom,perf_act,pp_pf,doric
+344,ihk,iaw_denom,perf_act,pp_pf,epic ionic
+345,ia_,iaw_denom,perfp_vow,pp_pp,attic
+346,ia_,iaw_denom,perfp_vow,pp_pp,doric
+347,ih,iaw_denom,perfp_vow,pp_pp,epic ionic
+348,ia_q,iaw_denom,aor_pass,pp_ap,attic
+349,ia_q,iaw_denom,aor_pass,pp_ap,doric
+350,ihq,iaw_denom,aor_pass,pp_ap,epic ionic
+351,ia_s,iaw_denom,fut_perf,pp_fp,attic
+352,ia_s,iaw_denom,fut_perf,pp_fp,doric
+353,ihs,iaw_denom,fut_perf,pp_fp,epic ionic
+354,isk,iskw,w_stem,pp_pr,na
+355,*,iskw,aor2,pp_ao,na
+356,*,iskw,aor1,pp_ao,na
+357,*,aL_stem,aw_pr,pp_pr,na
+358,a_s,aL_stem,reg_fut,pp_fu,na
+359,a_s,aL_stem,aor1,pp_ao,na
+360,a_k,aL_stem,perf_act,pp_pf,na
+361,a_,aL_stem,perfp_vow,pp_pp,na
+362,a_sq,aL_stem,aor_pass,pp_ap,na
+363,*,ow_denom,ow_pr,pp_pr,na
+364,ws,ow_denom,reg_fut,pp_fu,na
+365,ws,ow_denom,aor1,pp_ao,na
+366,wk,ow_denom,perf_act,pp_pf,na
+367,w,ow_denom,perfp_vow,pp_pp,na
+368,wq,ow_denom,aor_pass,pp_ap,na
+369,ws,ow_denom,fut_perf,pp_fp,na
+370,wt,ow_denom,os_on,adj2,na
+371,n,numi,umi_pr,pp_pr,na
+372,nu,numi,w_stem,pp_pr,na
+373,s,numi,reg_fut,pp_fu,na
+374,s,numi,aor1,pp_ao,na
+375,*,numi,perfp_vow,pp_pp,na
+376,*,numi,aor2_pass,pp_ap,na
+377,q,numi,aor_pass,pp_ap,na
+378,s,numi,fut_perf,pp_fp,na
+379,*,numi,hs_es,adj3,comp_only
+380,eu,euw,w_stem,pp_pr,na
+381,eus,euw,reg_fut,pp_fu,na
+382,eus,euw,aor1,pp_ao,na
+383,euk,euw,perf_act,pp_pf,na
+384,eu,euw,perfp_vow,pp_pp,na
+385,eu,euw,perfp_s,pp_pp,na
+386,euq,euw,aor_pass,pp_ap,na
+387,eusq,euw,aor_pass,pp_ap,na
+388,eus,euw,fut_perf,pp_fp,na
+389,eut,euw,os_on,adj2,na
+390,nd,ndw,w_stem,pp_pr,na
+391,s,ndw,reg_fut,pp_fu,na
+392,s,ndw,aor1,pp_ao,na
+393,ik,ndw,perf_act,pp_pf,na
+394,i,ndw,perfp_d,pp_pp,na
+395,isq,ndw,aor_pass,pp_ap,na
+396,iz,izw,w_stem,pp_pr,na
+397,isd,izw,w_stem,pp_pr,doric
+398,idd,izw,w_stem,pp_pr,boeotia
+399,i+z,izw,w_stem,pp_pr,na
+400,i,izw,ew_fut,pp_fu,na
+401,is,izw,reg_fut,pp_fu,na
+402,ic,izw,reg_fut,pp_fu,na
+403,iss,izw,reg_fut,pp_fu,epic
+404,|c,izw,reg_fut,pp_fu,doric
+405,is,izw,aor1,pp_ao,na
+406,iss,izw,aor1,pp_ao,epic
+407,i+s,izw,aor1,pp_ao,poetic
+408,ic,izw,aor1,pp_ao,na
+409,|c,izw,aor1,pp_ao,doric
+410,ik,izw,perf_act,pp_pf,na
+411,ix,izw,perf_act,pp_pf,na
+412,i,izw,perfp_d,pp_pp,na
+413,i,izw,perfp_g,pp_pp,na
+414,isq,izw,aor_pass,pp_ap,na
+415,ixq,izw,aor_pass,pp_ap,na
+416,ist,izw,os_on,adj2,na
+417,ikt,izw,os_on,adj2,na
+418,is,izw,is_ews,noun3,fem
+419,ic,izw,is_ews,noun3,fem
+420,ism,izw,os_ou,noun2,masc suff_acc
+421,igm,izw,os_ou,noun2,masc suff_acc
+422,is,izw,ma_matos,noun3,neut
+423,ig,izw,ma_matos,noun3,neut
+424,istik,izw,os_h_on,adj1,suff_acc
+425,ist,izw,verb_adj1,adj2,na
+426,ist,izw,hs_ou,noun1,masc
+427,ikt,izw,hs_ou,noun1,masc
+428,i^d,izw,hs_es,adj3,comp_only
+429,*,ew_denom,ew_pr,pp_pr,na
+430,a_s,ew_denom,reg_fut,pp_fu,attic r_e_i_alpha
+431,hs,ew_denom,reg_fut,pp_fu,na
+432,a_s,ew_denom,aor1,pp_ao,attic r_e_i_alpha
+433,hs,ew_denom,aor1,pp_ao,na
+434,a_k,ew_denom,perf_act,pp_pf,attic r_e_i_alpha
+435,hk,ew_denom,perf_act,pp_pf,na
+436,a_,ew_denom,perfp_vow,pp_pp,attic r_e_i_alpha
+437,h,ew_denom,perfp_vow,pp_pp,na
+438,a_q,ew_denom,aor_pass,pp_ap,attic r_e_i_alpha
+439,hq,ew_denom,aor_pass,pp_ap,na
+440,a_s,ew_denom,fut_perf,pp_fp,attic r_e_i_alpha
+441,hs,ew_denom,fut_perf,pp_fp,na
+442,a_t,ew_denom,os_on,adj2,attic r_e_i_alpha
+443,ht,ew_denom,os_on,adj2,na
+444,a_,ew_denom,ma_matos,noun3,neut attic r_e_i_alpha
+445,h,ew_denom,ma_matos,noun3,neut
+446,a_t,ew_denom,verb_adj2,adj1,attic r_e_i_alpha
+447,ht,ew_denom,verb_adj2,adj1,na
+448,a_s,ew_denom,is_ews,noun3,fem attic r_e_i_alpha
+449,hs,ew_denom,is_ews,noun3,fem
+450,a_thri,ew_denom,os_ou,noun2,neut attic r_e_i_alpha
+451,hthri,ew_denom,os_ou,noun2,neut
+452,a_thri,ew_denom,os_h_on,adj1,attic r_e_i_alpha
+453,hthri,ew_denom,os_h_on,adj1,na
+454,a_teir,ew_denom,a_hs,noun1,fem attic r_e_i_alpha
+455,hteir,ew_denom,a_hs,noun1,fem
+456,a_tik,ew_denom,os_h_on,adj1,attic suff_acc r_e_i_alpha
+457,htik,ew_denom,os_h_on,adj1,suff_acc
+458,a_sin,ew_denom,h_hs,noun1,fem attic r_e_i_alpha nu_movable
+459,a_si,ew_denom,h_hs,noun1,fem attic r_e_i_alpha
+460,a_sin,ew_denom,h_hs,noun1,fem attic r_e_i_alpha nu_movable
+461,hsin,ew_denom,h_hs,noun1,fem nu_movable
+462,hsi,ew_denom,h_hs,noun1,fem
+463,ell,ellw,w_stem,pp_pr,na
+464,el,ellw,ew_fut,pp_fu,na
+465,els,ellw,reg_fut,pp_fu,epic
+466,eil,ellw,aor1,pp_ao,na
+467,ell,ellw,aor2,pp_ao,na
+468,els,ellw,aor1,pp_ao,epic
+469,elk,ellw,perf_act,pp_pf,na
+470,e,ellw,perfp_l,pp_pp,na
+471,elq,ellw,aor_pass,pp_ap,na
+472,i_n,inw,w_stem,pp_pr,na
+473,i^n,inw,ew_fut,pp_fu,na
+474,i_n,inw,aor1,pp_ao,na
+475,ik,inw,perf_act,pp_pf,na
+476,i,inw,perfp_vow,pp_pp,na
+477,inq,inw,aor_pass,pp_ap,na
+478,i^q,inw,aor_pass,pp_ap,na
+479,i^n,inw,aor2_pass,pp_ap,na
+480,i^t,inw,os_on,adj2,na
+481,i^n,inw,hs_es,adj3,comp_only
+482,n,nhmi,ami_pr,pp_pr,na
+483,n,nhmi,aw_pr,pp_pr,na
+484,*,nhmi,aw_fut,pp_fu,na
+485,*,nhmi,as_asa_an,adj3,comp_only
+486,ill,illw,w_stem,pp_pr,na
+487,il,illw,ew_fut,pp_fu,na
+488,i_l,illw,aor1,pp_ao,na
+489,ilk,illw,perf_act,pp_pf,na
+490,i,illw,perfp_l,pp_pp,na
+491,ilq,illw,aor_pass,pp_ap,na
+492,*,e_stem,ew_pr,pp_pr,na
+493,ei,e_stem,w_stem,pp_pr,na
+494,esk,e_stem,w_stem,pp_pr,na
+495,*,e_stem,evw_pr,pp_pr,na
+496,*,e_stem,emi_pr,pp_pr,na
+497,a_,e_stem,ath_primary,pp_pr,attic r_e_i_alpha
+498,h,e_stem,ath_primary,pp_pr,na
+499,es,e_stem,reg_fut,pp_fu,na
+500,a_s,e_stem,reg_fut,pp_fu,attic r_e_i_alpha
+501,hs,e_stem,reg_fut,pp_fu,na
+502,*,e_stem,ew_fut,pp_fu,na
+503,ess,e_stem,reg_fut,pp_fu,na
+504,es,e_stem,aor1,pp_ao,na
+505,ess,e_stem,aor1,pp_ao,na
+506,a_s,e_stem,aor1,pp_ao,attic r_e_i_alpha
+507,hs,e_stem,aor1,pp_ao,na
+508,ek,e_stem,perf_act,pp_pf,na
+509,a_k,e_stem,perf_act,pp_pf,attic r_e_i_alpha
+510,hk,e_stem,perf_act,pp_pf,na
+511,e,e_stem,perfp_vow,pp_pp,na
+512,e,e_stem,perfp_s,pp_pp,na
+513,a_,e_stem,perfp_vow,pp_pp,attic r_e_i_alpha
+514,h,e_stem,perfp_vow,pp_pp,na
+515,a_,e_stem,perfp_s,pp_pp,attic r_e_i_alpha
+516,h,e_stem,perfp_s,pp_pp,na
+517,eq,e_stem,aor_pass,pp_ap,na
+518,esq,e_stem,aor_pass,pp_ap,na
+519,*,e_stem,aor2_pass,pp_ap,na
+520,a_q,e_stem,aor_pass,pp_ap,attic r_e_i_alpha
+521,hq,e_stem,aor_pass,pp_ap,na
+522,es,e_stem,fut_perf,pp_fp,na
+523,a_s,e_stem,fut_perf,pp_fp,attic r_e_i_alpha
+524,hs,e_stem,fut_perf,pp_fp,na
+525,a_t,e_stem,os_on,adj2,attic r_e_i_alpha
+526,ht,e_stem,os_on,adj2,na
+527,et,e_stem,os_on,adj2,na
+528,est,e_stem,os_on,adj2,na
+529,est,e_stem,os_h_on,adj1,na
+530,a_t,e_stem,verb_adj1,adj2,attic r_e_i_alpha
+531,ht,e_stem,verb_adj1,adj2,na
+532,a_,e_stem,s_tos,noun3,masc/fem attic r_e_i_alpha
+533,h,e_stem,s_tos,noun3,masc/fem
+534,a_m,e_stem,wn_on,adj3,attic r_e_i_alpha
+535,hm,e_stem,wn_on,adj3,na
+536,oz,ozw,w_stem,pp_pr,na
+537,osd,ozw,w_stem,pp_pr,doric
+538,os,ozw,reg_fut,pp_fu,na
+539,oc,ozw,reg_fut,pp_fu,na
+540,os,ozw,aor1,pp_ao,na
+541,oc,ozw,aor1,pp_ao,na
+542,oss,ozw,aor1,pp_ao,na
+543,ok,ozw,perf_act,pp_pf,na
+544,o,ozw,perfp_d,pp_pp,na
+545,o,ozw,perfp_g,pp_pp,doric
+546,osq,ozw,aor_pass,pp_ap,na
+547,oxq,ozw,aor_pass,pp_ap,doric
+548,ost,ozw,os_on,adj2,na
+549,*,o_stem,ow_pr,pp_pr,na
+550,*,o_stem,omi_pr,pp_pr,na
+551,w,o_stem,w_stem,pp_pr,epic ionic
+552,wsk,o_stem,w_stem,pp_pr,na
+553,w|sk,o_stem,w_stem,pp_pr,na
+554,*,o_stem,ww_pr,pp_pr,na
+555,o,o_stem,ath_primary,pp_pr,na
+556,ws,o_stem,reg_fut,pp_fu,na
+557,os,o_stem,reg_fut,pp_fu,na
+558,oss,o_stem,reg_fut,pp_fu,epic
+559,ws,o_stem,aor1,pp_ao,na
+560,oss,o_stem,aor1,pp_ao,na
+561,os,o_stem,aor1,pp_ao,na
+562,*,o_stem,ath_w_aor,pp_ao,na
+563,wk,o_stem,perf_act,pp_pf,na
+564,ok,o_stem,perf_act,pp_pf,na
+565,w,o_stem,perfp_vow,pp_pp,na
+566,o,o_stem,perfp_vow,pp_pp,na
+567,o,o_stem,perfp_s,pp_pp,na
+568,w,o_stem,perfp_s,pp_pp,na
+569,wq,o_stem,aor_pass,pp_ap,na
+570,wsq,o_stem,aor_pass,pp_ap,na
+571,oq,o_stem,aor_pass,pp_ap,na
+572,osq,o_stem,aor_pass,pp_ap,na
+573,ws,o_stem,fut_perf,pp_fp,na
+574,wt,o_stem,os_on,adj2,na
+575,wst,o_stem,os_on,adj2,na
+576,ot,o_stem,os_on,adj2,na
+577,w,o_stem,s_tos,noun3,na
+578,w,o_stem,ma_matos,noun3,neut
+579,wm,o_stem,h_hs,noun1,fem
+580,wm,o_stem,wn_on,adj3,na
+581,ws,o_stem,is_ews,noun3,fem
+582,oi,o_stem,a_hs,noun1,fem
+583,o,o_stem,os_on,adj2,comp_only
+584,*,ev_stem,ew_pr,pp_pr,na
+585,*,ev_stem,evw_pr,pp_pr,na
+586,eu,ev_stem,w_stem,pp_pr,na
+587,ei,ev_stem,w_stem,pp_pr,na
+588,eus,ev_stem,reg_fut,pp_fu,na
+589,eus,ev_stem,ew_fut,pp_fu,na
+590,e,ev_stem,ew_fut,pp_fu,epic
+591,e,ev_stem,ew_fut,pp_fu,doric
+592,eu,ev_stem,reg_fut,pp_fu,epic
+593,a_s,ev_stem,reg_fut,pp_fu,attic r_e_i_alpha
+594,hs,ev_stem,reg_fut,pp_fu,na
+595,eus,ev_stem,aor1,pp_ao,na
+596,e,ev_stem,aor1,pp_ao,na
+597,eu,ev_stem,aor1,pp_ao,epic
+598,eu,ev_stem,aor2,pp_ao,epic
+599,u,ev_stem,ath_secondary,pp_ao,na
+600,es,ev_stem,aor1,pp_ao,na
+601,a_s,ev_stem,aor1,pp_ao,attic r_e_i_alpha
+602,hs,ev_stem,aor1,pp_ao,na
+603,ess,ev_stem,aor1,pp_ao,epic
+604,euk,ev_stem,perf_act,pp_pf,na
+605,uk,ev_stem,perf_act,pp_pf,na
+606,eu,ev_stem,perfp_vow,pp_pp,na
+607,eu,ev_stem,perfp_s,pp_pp,na
+608,u,ev_stem,perfp_vow,pp_pp,na
+609,ei,ev_stem,perfp_vow,pp_pp,na
+610,eusq,ev_stem,aor_pass,pp_ap,na
+611,uq,ev_stem,aor_pass,pp_ap,na
+612,eq,ev_stem,aor_pass,pp_ap,na
+613,eus,ev_stem,fut_perf,pp_fp,na
+614,eust,ev_stem,os_on,adj2,na
+615,eir,eirw,w_stem,pp_pr,na
+616,err,eirw,w_stem,pp_pr,aeolic
+617,er,eirw,w_stem,pp_pr,na
+618,er,eirw,ew_fut,pp_fu,na
+619,ers,eirw,reg_fut,pp_fu,epic
+620,eir,eirw,aor1,pp_ao,na
+621,er,eirw,aor2,pp_ao,na
+622,ers,eirw,aor1,pp_ao,epic
+623,eirk,eirw,perf_act,pp_pf,na
+624,e,eirw,perfp_r,pp_pp,na
+625,erq,eirw,aor_pass,pp_ap,na
+626,irm,eirw,wn_on,adj3,na
